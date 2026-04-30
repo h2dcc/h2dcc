@@ -31,7 +31,7 @@ Based in the **Guangdong-Hong Kong-Macao Greater Bay Area (GBA)**, I am a practi
 
 
 ### 📫 Connect with Me
-- **Blog**: [lawtee.com](https://www.lawtee.com)
+- **Blog**: [lawtee.com](https://lawtee.com)
 - **Email**: mail#hyruo.com
 
 <div align="right">
