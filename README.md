@@ -21,14 +21,6 @@ Based in the **Guangdong-Hong Kong-Macao Greater Bay Area (GBA)**, I am a practi
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=h2dcc&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h2dcc&layout=compact&theme=transparent&hide=html,css" />
-</p>
-
----
-
 
 ### 📫 Connect with Me
 - **Blog**: [lawtee.com](https://lawtee.com)
